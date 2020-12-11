@@ -4,7 +4,7 @@
 
 ### Hi 👋
 I am a student at the last year of Information Systems at the Federal Institute of Education, Science and Technology of Rio de Janeiro. It's important for me to highlight my institution because it was here that I started my contact with programming and was able to know and learn all the technologies that are being used more in the tech market. 
-In short, this is where I gave my first "Hello World!".😂😂
+In short, this is where I gave my first "Hello World!".😂😂😂
 
 
 
@@ -15,7 +15,7 @@ In short, this is where I gave my first "Hello World!".😂😂
 <img src="https://img.shields.io/badge/language-Portugu%C3%AAs-success">
 
 ### Olá 👋
-Sou um estudante cursando o último ano de Sistemas da Informação no Insituto Federal de Educação, Ciência e Tecnologia Fluminense. É importante para mim ressaltar minha instituição porque foi aqui que eu iniciei meu contato com a programação e pude conhecer e aprender todas as tecnologias que estão sendo mais usadas no mercado de trabalho. Ou seja, foi aqui que eu dei meu primeiro "Hello World!"
+Sou um estudante cursando o último ano de Sistemas da Informação no Insituto Federal de Educação, Ciência e Tecnologia Fluminense. É importante para mim ressaltar minha instituição porque foi aqui que eu iniciei meu contato com a programação e pude conhecer e aprender todas as tecnologias que estão sendo mais usadas no mercado de trabalho. Ou seja, foi aqui que eu dei meu primeiro "Hello World!" 😂😂😂
 
 
 <!-- 
