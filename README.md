@@ -4,10 +4,11 @@
 
 <div>
   <a href="https://github.com/teixeira83">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=teixeira83&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-    <img style="border-radius: 130px" align="right" alt="gato programando" src="https://media1.tenor.com/images/e4d613ee59e79b93e38ec2521cce19e4/tenor.gif">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=teixeira83&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+    
    
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teixeira83&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teixeira83&layout=compact&langs_count=7&theme=gruvbox"/>
+    <img height="150em" align="right" alt="gato programando" src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif">
 </div>
   
   ![Snake animation](https://github.com/teixeira83/teixeira83/blob/output/github-contribution-grid-snake.svg)
