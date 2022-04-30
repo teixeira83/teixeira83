@@ -8,7 +8,6 @@
     
    
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teixeira83&layout=compact&langs_count=7&theme=gruvbox"/>
-    <img height="150em" align="right" alt="gato programando" src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif">
 </div>
   
   ![Snake animation](https://github.com/teixeira83/teixeira83/blob/output/github-contribution-grid-snake.svg)
